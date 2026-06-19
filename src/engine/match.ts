@@ -1,4 +1,4 @@
-import { Time, Partida } from './types'
+import type { Time, Partida } from './types'
 
 function randomGols(forca: number): number {
   const base = forca / 100

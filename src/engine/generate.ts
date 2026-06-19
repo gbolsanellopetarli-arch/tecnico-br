@@ -1,4 +1,4 @@
-import { Jogador, Time, Tabela } from './types'
+import type { Jogador, Time, Tabela } from './types'
 
 const TIMES_BR = [
   { nome: 'Flamengo',          sigla: 'FLA', cidade: 'Rio de Janeiro', cor: '#E8001C', forca: 88 },

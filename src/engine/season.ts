@@ -1,4 +1,4 @@
-import { Time, Rodada, Partida, Tabela, Liga } from './types'
+import type { Time, Rodada, Partida, Tabela, Liga } from './types'
 import { gerarTabela } from './generate'
 
 let partidaCounter = 0

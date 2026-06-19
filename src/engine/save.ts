@@ -1,4 +1,4 @@
-import { SaveGame } from './types'
+import type { SaveGame } from './types'
 
 const SAVE_KEY = 'tecnico-br-save'
 
